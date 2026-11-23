@@ -1,0 +1,14 @@
+# Dataset files
+mnist_train.csv
+mnist_test.csv
+
+# Trained models
+*.joblib
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
